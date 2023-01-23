@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Agrandir";
+  src: local("Agrandir"),
+    url(./comps/assets/fonts/Agrandir-Regular.otf) format("opentype");
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+/* @font-face {
+  font-family: "Agrandir";
+  src: local("Agrandir"),
+    url(./comps/assets/fonts/Agrandir-GrandHeavy.otf) format("opentype");
+}
+@font-face {
+  font-family: "Agrandir";
+  src: local("Agrandir"),
+    url(./comps/assets/fonts/Agrandir-GrandLight.otf) format("opentype");
+}
+@font-face {
+  font-family: "Agrandir";
+  src: local("Agrandir"),
+    url(./comps/assets/fonts/Agrandir-Narrow.otf) format("opentype");
+}
+@font-face {
+  font-family: "Agrandir";
+  src: local("Agrandir"),
+    url(./comps/assets/fonts/Agrandir-TextBold.otf) format("opentype");
+}
+@font-face {
+  font-family: "Agrandir";
+  src: local("Agrandir"),
+    url(./comps/assets/fonts/Agrandir-Tight.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "Agrandir";
+  src: local("Agrandir"),
+    url(./comps/assets/fonts/Agrandir-WideLight.otf) format("opentype");
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

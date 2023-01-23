@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif !important;
+}
+
+/* WAITLIST STYLES STARTS */
+
+.App {
+  background-color: #f4f4f4 !important;
+  background-image: url("./comps/assets/images/pattern.png") !important;
+  width: 100% !important;
+  height: 100vh !important;
+}
